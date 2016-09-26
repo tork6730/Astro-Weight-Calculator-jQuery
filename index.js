@@ -29,5 +29,4 @@ $('#button').click(function(){
   
   $("#result").text ("If you are on " + aplanet + ", you would weigh " + Math.round(result) + " lbs!");
 });
-
 });
